@@ -32,9 +32,10 @@ const HomePage = () => {
           <div>
             <form>
               <div className="rdo" onChange={(e) => setradio(e.target.value)}>
-                <input type="radio" value="Actor" id="people" name="radio" />
+                <input className="radio_btn" type="radio" value="Actor" id="people" name="radio" />
                 Actor <br />
                 <input
+                  className="radio_btn"
                   type="radio"
                   value="Show"
                   id="shows"

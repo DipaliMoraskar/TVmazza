@@ -20,7 +20,10 @@ code {
 .rdo {
   font-size: 30px;
   margin: 20px;
+  display: flex;
+  justify-content: center;
 }
+
 #people {
   display: inline;
   margin-top: 20px;
