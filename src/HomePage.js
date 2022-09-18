@@ -34,9 +34,7 @@ const HomePage = () => {
               <div className="rdo" onChange={(e) => setradio(e.target.value)}>
                 <input className="radio_btn" type="radio" value="Actor" id="people" name="radio" />
                 Actor <br />
-                <input
-                  className="radio_btn"
-                  type="radio"
+                <input className="radio_btn" type="radio"
                   value="Show"
                   id="shows"
                   name="radio"
