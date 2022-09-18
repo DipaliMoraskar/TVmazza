@@ -19,7 +19,7 @@ const Actor = (props) => {
 
       let shows = Data.filter((items, ind) => {
         console.log(items);
-        return 0 == ind;
+        return 0 === ind;
       });
 
       console.log("hi");
