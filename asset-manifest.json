@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/TVmazza/static/css/main.0bab3678.css",
+    "main.css": "/TVmazza/static/css/main.da7c4afd.css",
     "main.js": "/TVmazza/static/js/main.06a41770.js",
     "index.html": "/TVmazza/index.html",
-    "main.0bab3678.css.map": "/TVmazza/static/css/main.0bab3678.css.map",
+    "main.da7c4afd.css.map": "/TVmazza/static/css/main.da7c4afd.css.map",
     "main.06a41770.js.map": "/TVmazza/static/js/main.06a41770.js.map"
   },
   "entrypoints": [
-    "static/css/main.0bab3678.css",
+    "static/css/main.da7c4afd.css",
     "static/js/main.06a41770.js"
   ]
 }
