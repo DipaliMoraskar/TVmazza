@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tv_maza/static/css/main.0bab3678.css",
+    "main.js": "/Tv_maza/static/js/main.06a41770.js",
+    "index.html": "/Tv_maza/index.html",
+    "main.0bab3678.css.map": "/Tv_maza/static/css/main.0bab3678.css.map",
+    "main.06a41770.js.map": "/Tv_maza/static/js/main.06a41770.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bab3678.css",
+    "static/js/main.06a41770.js"
+  ]
+}
