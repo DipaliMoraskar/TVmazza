@@ -23,8 +23,10 @@ code {
   display: flex;
   justify-content: center;
 }
-
+.radio_btn{
+  margin: 10px;
+}
 #people {
   display: inline;
-  margin-top: 20px;
+  margin-top: 15px;
 }
