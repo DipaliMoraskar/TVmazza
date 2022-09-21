@@ -7,6 +7,7 @@ const Actor = (props) => {
   console.log(props.input);
 
   // https://api.tvmaze.com/people/actorId/castcredits?embed=show
+  //https://api.tvmaze.com/search/people?q=akon
 
   useEffect(() => {
     async function ApiCall() {
